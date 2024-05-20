@@ -1,2 +1,2 @@
 # Sho Tool
-```wqf```
+```git clone https://github.com/Sammylol69/sho-tool.git```
